@@ -1,10 +1,11 @@
 # MaterialDesignDing
-此Demo用来实现MaterialDesign控件的使用。
+此Demo用来实现MaterialDesign控件的使用,目前只包含BottomSheets。
 
 bottomSheets
 效果如图:
 
 ![效果图](http://img.blog.csdn.net/20161012222917397)
+
 
 
 
