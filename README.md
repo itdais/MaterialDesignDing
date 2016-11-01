@@ -9,7 +9,7 @@ bottomSheets
 
 
 
-> [个人CSDN博客] (http://blog.csdn.net/u012911063)
+> [个人博客] (http://www.jianshu.com/users/c5b00e3dcb94/latest_articles)
 
 > 个人网站 [歌吟有梦 itdais.com ](http:itdais.com)
 
