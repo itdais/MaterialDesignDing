@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.itdais.materialdesignding.bottomsheet.BottomSheetActivity;
+import com.itdais.materialdesignding.drawerlayout.DrawerLayoutMainActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,6 +22,10 @@ public class MainActivity extends AppCompatActivity {
         switch (v.getId()) {
             case R.id.botton_bottomsheets:
                 intent = new Intent(this, BottomSheetActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.botton_drawerlayout:
+                intent = new Intent(this, DrawerLayoutMainActivity.class);
                 startActivity(intent);
                 break;
         }

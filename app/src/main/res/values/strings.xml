@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MaterialDesignDing</string>
+    <string name="title_activity_drawer_layout_one">基本DrawerLayout+NavigationView</string>
+    <string name="title_activity_drawer_layout_below">NavigationView在Toolbar下方</string>
+    <string name="title_activity_drawer_layout_other">DrawerLayout+其他布局</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
