@@ -1,5 +1,5 @@
 # MaterialDesignDing
-此Demo用来实现MaterialDesign控件的使用,目前只包含BottomSheets。
+此Demo用来实现MaterialDesign控件的使用,目前包含BottomSheets、DrawerLayout的代码。
 
 bottomSheets
 效果如图:
